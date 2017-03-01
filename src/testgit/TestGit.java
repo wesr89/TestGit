@@ -10,6 +10,8 @@ public class TestGit {
         
         
         System.out.println("Second!?");
+        
+        System.out.println("Third!");
     }
 
 }
